@@ -3,8 +3,7 @@
 ### 🔭 I'm currently working on...
 
 - [**dumlang**](https://github.com/costowell/dumlang) - A dumb language I'm writing a compiler for in C
-- [**Theorem Prover**](https://github.com/costowell/theorem-prover) - Currently SAT solver, adding ability to verify logical statements about linear equations
-- [**Dyno**](https://github.com/costowell/dynamic-loading) - An LED control system which leverages dynamic loading modules as shared objects
+- [**Parsing Fun**](https://github.com/costowell/parsing-fun) - Trying out some cool parsing algorithms
 - **Samaritan** - My Dell Poweredge R720 running NixOS (if this is ever removed from this section, it has blown up)
 
 ### 🛠️ I'm currently maintaining...
