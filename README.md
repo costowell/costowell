@@ -3,7 +3,7 @@
 ### 🔭 I'm currently working on...
 
 - [**dumlang**](https://github.com/costowell/dumlang) - A dumb language I'm writing a compiler for in C
-- [**Parsing Fun**](https://github.com/costowell/parsing-fun) - Trying out some cool parsing algorithms
+- [**Grammar Fun**](https://github.com/costowell/grammar-fun) - Studying algorithms for grammars
 - **Samaritan** - My Dell Poweredge R720 running NixOS (if this is ever removed from this section, it has blown up)
 
 ### 🛠️ I'm currently maintaining...
