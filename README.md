@@ -1,15 +1,3 @@
-## I'm Cole 👋
+Hi, I'm Cole 👋
 
-### 🔭 I'm currently working on...
-
-- [**dumlang**](https://github.com/costowell/dumlang) - A dumb language I'm writing a compiler for in C
-- [**Grammar Fun**](https://github.com/costowell/grammar-fun) - Studying algorithms for grammars
-- **Samaritan** - My Dell Poweredge R720 running NixOS (if this is ever removed from this section, it has blown up)
-
-### 🛠️ I'm currently maintaining...
-
-- [**Auto Drink Admin**](https://github.com/costowell/ADA) - An ATM which turns real money into drink credits for [CSH's](https://github.com/ComputerScienceHouse) networked drink machines!
-
-### 🌟 I'm very proud of...
-
-- [**My contribution to the Linux kernel!**](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=75a978bd604b5916d3e4430d4e6e5601162e14eb) - Wasn't a complicated fix, but was a really fun and educational exercise in debugging. Connected my understanding of how input is handled from userspace to the kernel and hardware.
+While you're here, you should check out [my website](https://stowell.dev/).
